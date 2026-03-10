@@ -3,7 +3,6 @@ title = "Introduction"
 date = "2026-03-08T10:59:14-04:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Game Master"
-authorTwitter = "" #do not include @
 showFullContent = false
 Toc = false
 +++
