@@ -3,7 +3,7 @@ author = "zschira"
 +++
 
 # The Second Empire of Abadar
-{{< zoomimg src="/img/the_second_empire.png" alt="World Map" >}}
+{{< zoomimg src="img/the_second_empire.png" alt="World Map" >}}
 
 ## The Five Kingdoms
 At the end of the Age of Gods, The Empire was partitioned into 5 semi-independent
