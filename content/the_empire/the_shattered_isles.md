@@ -1,7 +1,8 @@
 +++
-date = '2026-03-09T21:37:57-04:00'
 draft = false
 title = 'The Shattered Isles'
+Toc = false
+showFullContent = true
 +++
 
 Once the second most powerful kingdom in The Empire, The Shattered Isles

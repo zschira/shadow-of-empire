@@ -1,7 +1,8 @@
 +++
-date = '2026-03-09T21:37:19-04:00'
 draft = false
 title = 'Dragons Head'
+Toc = false
+showFullContent = true
 +++
 
 Dragon's Head lies on the large island south of the main continent.

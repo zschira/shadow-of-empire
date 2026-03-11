@@ -1,7 +1,9 @@
 +++
-date = '2026-03-09T21:37:04-04:00'
+#date = '2026-03-09T21:37:04-04:00'
 draft = false
 title = 'Centerra'
+Toc = false
+showFullContent = true
 +++
 
 The kingdom of Centerra, named after the continent itself,

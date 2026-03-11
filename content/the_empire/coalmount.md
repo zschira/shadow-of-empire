@@ -1,7 +1,8 @@
 +++
-date = '2026-03-09T21:37:42-04:00'
 draft = false
 title = 'Coalmount'
+Toc = false
+showFullContent = true
 +++
 
 The predominantly Gnomish and Dwarven kingdom of Coalmount has long been
