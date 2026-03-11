@@ -5,6 +5,6 @@ Toc = false
 showFullContent = true
 +++
 
-Imladan is a land of ancient forests and great river valleys. Its
-interaction with its neighboring kingdom of Coalmount has grown more 
-contested as Coalmount has become more independent from The Empire.
+Imladan is a land of ancient forests and great river valleys.
+Recently, Imladan has been in frequent conflict with Coalmount,
+as Coalmount has grown increasingly independent from The Empire.
