@@ -63,7 +63,7 @@ pagination.pagerSize = 5
 
     [languages.en.params.logo]
       logoText = "The Shadow of Empire"
-      logoHomeLink = "/"
+      logoHomeLink = "/shadow-of-empire"
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "adventure_log"
