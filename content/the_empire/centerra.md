@@ -4,5 +4,7 @@ draft = false
 title = 'Centerra'
 +++
 
-# Centerra
-
+The kingdom of Centerra, named after the continent itself,
+serves as the seat of power for The Empire. The Emperor's
+palace lies in Centerra's capitol city amidst great monuments
+and constructions.
